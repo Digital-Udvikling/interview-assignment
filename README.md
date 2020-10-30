@@ -14,7 +14,7 @@ Kod en simpel webshop, med (som minimum) følgende views:
  * Varekort, hvorfra man kan lægge et produkt i sin kurv
  * Kurv, der viser hvad man har lagt i kurven
 
-Mens opgaven løses, skal følgende spørgsmål overvejes og forberedes til uddybning til næste samtale:
+Mens opgaven løses, kan følgende spørgsmål overvejes og forberedes til uddybning til næste samtale:
 
  * Hvordan skal databasestrukturen se ud?
  * Hvorfor laver du applikationsstrukturen som du gør?
@@ -26,6 +26,8 @@ Mens opgaven løses, skal følgende spørgsmål overvejes og forberedes til uddy
      * Klargør gerne en beskrivelse og/eller tegning af infrastrukturen.
 
 Det er på ingen måder meningen at løsningen skal være en komplet shop, men mere en hjælp til at reflektere over ovenstående spørgsmål.
+
+Det er også fuldt tilladt at "arbejde ud af en tangent" indenfor opgavens rammer, hvis man har nogle idéer eller evner man gerne vil fremvise.
 
 ## Teknologier
 
