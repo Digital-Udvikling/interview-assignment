@@ -2,8 +2,6 @@
 
 Dette er en simpel opgave for at give kandidaten en mulighed for at vise lidt af sin kodestil, evne til at benytte nye teknologier, samt tankegang i forbindelse med opgaveløsning.
 
-Forventet tidsforbrug: 2-3 timer.
-
 Opgaven kan enten løses ved at klone dette repository, og sende et link tilbage - eller blot pakke løsningen i én .zip-fil og sende et link til denne til <tab@billigvvs.dk>. Vi kan ikke modtage .zip-filer via mail.
 
 ## Opgaven
@@ -27,7 +25,7 @@ Mens opgaven løses, kan følgende spørgsmål overvejes og forberedes til uddyb
 
 Det er på ingen måder meningen at løsningen skal være en komplet shop, men mere en hjælp til at reflektere over ovenstående spørgsmål.
 
-Det er også fuldt tilladt at "arbejde ud af en tangent" indenfor opgavens rammer, hvis man har nogle idéer eller evner man gerne vil fremvise.
+Det er også fuldt tilladt at være kreativ indenfor opgavens rammer, hvis man har nogle idéer eller evner man gerne vil fremvise.
 
 ## Teknologier
 
