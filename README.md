@@ -1,8 +1,8 @@
-# BilligVVS opgave ifbm. jobansøgning
+# Digital Udvikling - opgave ifbm. jobansøgning
 
 Dette er en simpel opgave for at give kandidaten en mulighed for at vise lidt af sin kodestil, evne til at benytte nye teknologier, samt tankegang i forbindelse med opgaveløsning.
 
-Opgaven kan enten løses ved at klone dette repository, og sende et link tilbage - eller blot pakke løsningen i én .zip-fil og sende et link til denne til <tab@billigvvs.dk>. Vi kan ikke modtage .zip-filer via mail.
+Opgaven kan enten løses ved at klone dette repository, og sende et link tilbage - eller blot pakke løsningen i én .zip-fil og sende et link til denne til <tab@ao.dk>. Vi kan ikke modtage .zip-filer via mail.
 
 Opgaven skal helst være afleveret senest et par arbejdsdage inden samtalen.
 
@@ -52,4 +52,4 @@ $ make run
 
 ## Spørgsmål
 
-Skulle der være nogle spørgsmål til opgaven eller krav til løsningen, kan de stiles til <tab@billigvvs.dk>.
+Skulle der være nogle spørgsmål til opgaven eller krav til løsningen, kan de stiles til <tab@ao.dk>.
